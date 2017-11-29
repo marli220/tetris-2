@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7339ae328bedea845b53c2a0b6b1b982
+timeCreated: 1511643613
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Teletoon Lowercase
+  fontNames:
+  - Teletoon Lowercase
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
